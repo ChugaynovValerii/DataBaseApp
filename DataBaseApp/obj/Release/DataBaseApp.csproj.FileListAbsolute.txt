@@ -1,0 +1,13 @@
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\bin\Release\DataBaseApp.exe.config
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\bin\Release\DataBaseApp.exe
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\bin\Release\DataBaseApp.pdb
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.Authorization.resources
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.ClientMainForm.resources
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.Properties.Resources.resources
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.csproj.GenerateResource.cache
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.csproj.CoreCompileInputs.cache
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.exe
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.pdb
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.csprojAssemblyReference.cache
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.AdminMainForm.resources
+D:\Projects\DataBaseCW\DataBaseApp\DataBaseApp\DataBaseApp\obj\Release\DataBaseApp.RegistrationForm.resources
